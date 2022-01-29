@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/OnlyNews/static/js/main.461a305b.js",
+    "static/js/787.3f4db042.chunk.js": "/OnlyNews/static/js/787.3f4db042.chunk.js",
+    "index.html": "/OnlyNews/index.html",
+    "main.461a305b.js.map": "/OnlyNews/static/js/main.461a305b.js.map",
+    "787.3f4db042.chunk.js.map": "/OnlyNews/static/js/787.3f4db042.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.461a305b.js"
+  ]
+}
